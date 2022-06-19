@@ -1,0 +1,1 @@
+# vite-plugin-vue2-jsx
